@@ -15,8 +15,6 @@ dist
 dist.*
 dist-*
 dist-ssr
-yh-oa-pc
-yh-oa-pc.*
 coverage
 *.local
 
